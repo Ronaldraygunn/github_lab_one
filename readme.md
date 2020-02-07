@@ -14,3 +14,6 @@
 ### I learned about using it to create new branches for testing features without breaking the stable build.
 ### I also learned of the many applications of version control which also includes building enviorments to do bug fixes.
 ### Lastly, github and git are now a major part of my life.
+
+## Collaborators:
+#### Chris Fulton
